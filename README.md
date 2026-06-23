@@ -68,11 +68,12 @@ The analysis is based on a relational dataset containing:
 
 👉 All SQL queries used for analysis are available in the `sql_queries.sql` file in this repository.
 
----
+---<img width="301" height="197" alt="Screenshot 2026-06-19 120550" src="https://github.com/user-attachments/assets/c8c98ffe-a70b-47db-8a13-185f53895900" />
+
 
 ### 1️⃣ Market Presence (APAC)
 
-<img width="242" height="130" alt="image" src="https://github.com/user-attachments/assets/53e704a8-3b58-4514-9c20-b28210982c8b" />
+
 
 📌 AtliQ Exclusive operates across **8 APAC countries**, showing strong regional presence and market penetration.
 
