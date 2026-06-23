@@ -1,31 +1,11 @@
 # 📊 AtliQ Hardwares – SQL Business Insights Project
 
 ---
-
-## 🧠 Business Story
-
-AtliQ Hardwares is a global computer hardware company operating across multiple regions including APAC, Europe, North America, and Latin America.
-
-As the company expanded rapidly, a major challenge emerged:
-
-👉 Business teams were receiving frequent ad-hoc questions but lacked a structured and fast way to extract insights from data.
-
-This led to:
-
-- Delayed decision-making  
-- Heavy dependency on manual reporting  
-- Difficulty understanding product, customer, and sales performance in real time  
-
----
-
 ## 🎯 Problem Statement
 
-The business needed a way to:
+AtliQ Hardwares lacks a structured and efficient way to answer ad-hoc business questions using SQL, leading to delays in decision-making and limited visibility into key business performance areas.
 
-- Quickly answer ad-hoc business questions  
-- Understand sales, customers, and product performance  
-- Identify trends across markets and time periods  
-- Support data-driven decision-making using SQL  
+The business required a data-driven approach to quickly analyze sales, customers, products, and market trends to support faster and more accurate decision-making.
 
 ---
 
