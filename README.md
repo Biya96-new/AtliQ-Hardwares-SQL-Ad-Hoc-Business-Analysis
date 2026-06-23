@@ -68,12 +68,12 @@ The analysis is based on a relational dataset containing:
 
 👉 All SQL queries used for analysis are available in the `sql_queries.sql` file in this repository.
 
----<img width="301" height="197" alt="Screenshot 2026-06-19 120550" src="https://github.com/user-attachments/assets/c8c98ffe-a70b-47db-8a13-185f53895900" />
+---
 
 
 ### 1️⃣ Market Presence (APAC)
 
-
+<img width="301" height="197" alt="Screenshot 2026-06-19 120550" src="https://github.com/user-attachments/assets/c8c98ffe-a70b-47db-8a13-185f53895900" />
 
 📌 AtliQ Exclusive operates across **8 APAC countries**, showing strong regional presence and market penetration.
 
@@ -81,7 +81,7 @@ The analysis is based on a relational dataset containing:
 
 ### 2️⃣ Product Portfolio Growth
 
-<img width="147" height="124" alt="image" src="https://github.com/user-attachments/assets/1ef4c4f4-84cf-44e7-941f-866a805821ba" />
+<img width="147" height="117" alt="unique" src="https://github.com/user-attachments/assets/827f1422-d87c-40ad-9c5b-dddec0530163" />
 
 📌 The company recorded a **36.33% increase in unique products**, indicating strong product expansion in 2021.
 
