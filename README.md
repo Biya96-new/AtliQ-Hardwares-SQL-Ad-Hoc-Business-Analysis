@@ -173,6 +173,5 @@ This project demonstrates how SQL can be used to:
 
 ## 🎥 Project Demo
 
-👉 Add your video link here:  
-https://your-video-link.com
+https://www.linkedin.com/posts/biya-rocky-dataanalyst_dataanalytics-dataanalyst-sql-ugcPost-7475754568866484224-ojNq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeEowYByIUu1ymdXneEMbHii85a1lJyZSo
 
